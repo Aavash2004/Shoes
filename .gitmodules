@@ -1,0 +1,3 @@
+[submodule "shoe-store"]
+	path = shoe-store
+	url = https://github.com/Aavash2004/shoe-store
